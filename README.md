@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saba Megrelishvili
 - 👀 I’m interested in programming. I want to become a full stack developer.
-- 🌱 I’m currently learning Nodejs, Mongodb and developing css skills.
+- 🌱 I’m currently learning Nodejs, express, Mongodb.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- you can contact me at my email ---> basa.megrelishvili@gmail.com
 
